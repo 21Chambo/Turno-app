@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1C1B1F</color>
+    <color name="green_ok">#2E7D32</color>
+    <color name="purple_500">#6750A4</color>
+    <color name="purple_700">#4F378B</color>
+    <color name="red_error">#C62828</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">TurnoFácil</string>
+    <style name="Theme.TurnoFacil" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
